@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Copyright (C) 2011 The Android Open Source Project
+
+     Licensed under the Apache License, Version 2.0 (the "License");
+     you may not use this file except in compliance with the License.
+     You may obtain a copy of the License at
+
+          http://www.apache.org/licenses/LICENSE-2.0
+
+     Unless required by applicable law or agreed to in writing, software
+     distributed under the License is distributed on an "AS IS" BASIS,
+     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+     See the License for the specific language governing permissions and
+     limitations under the License.
+-->
+
+<resources>
+	<string name="conectar">Conectar</string>
+	<string name="desconectar">Desconectar</string>
+    <string name="acerca">Acerca de</string>
+    <string name="aceptar">Aceptar</string>
+    <string name="cancelar">Cancelar</string>
+    <string name="aplicar">Aplicar</string>
+    <string name="addserver">Agregar servidor icecast</string>
+    <string name="addport">Agregar puerto</string>
+    <string name="addmontaje">Agregar punto de montaje (agregar primero /)</string>
+    <string name="adduser">Agregar usuario</string>
+    <string name="addpasswd">Agregar contraseña</string>
+    <string name="addformat">Seleccionar formato</string>
+    <string name="addpathfile">Agregar ruta de archivo a reproducir</string>
+    <string name="addselectfile">Seleccionar archivo</string>
+    <string name="estatus">Estatus</string>
+    <string name="usuario">Usuario: </string>
+    <string name="passwd">Contraseña: </string>
+    <string name="server">Servidor: </string>
+    <string name="format">Formato: </string>
+    <string name="fila">Fila: </string>
+    <string name="acercainfo">IcesDroide para android, es un programa que permite enviar datos(audio) al servidor streaming icecast.\nTiene las siguientes caracteristicas:\na) Es un programa demostrativo que carece de varias funcionalidades.\nb) Usa la libreria libshout del server streaming icecast que permite crear clientes.\nc) Soporta los formatos Mp3 y Ogg vorbis.\nd) Soporta idiomas español e ingles.\nMas informacion en http://androidprojectssl.blogspot.com</string>
+	<string name="filano">Archivo no se encontro: </string>
+	<string name="serverror">Error en la coneccion, verificar configuracion.</string>
+	<string name="playporcentj">Reproduccion: </string>
+	<string name="ubicacion">Ubicacion: </string>
+	<string name="noleer">No se puede leer</string>
+	<string name="codigofuente">Codigo fuente</string>
+	<string name="codigofuentedescarga">El codigo fuente se descargo en el directorio: </string>
+	<string name="codigofuentedescargaerror">Error no se puede grabar en el directorio: /sdcard o /mnt/sdcard</string>
+</resources>

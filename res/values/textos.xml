@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Copyright (C) 2011 The Android Open Source Project
+
+     Licensed under the Apache License, Version 2.0 (the "License");
+     you may not use this file except in compliance with the License.
+     You may obtain a copy of the License at
+
+          http://www.apache.org/licenses/LICENSE-2.0
+
+     Unless required by applicable law or agreed to in writing, software
+     distributed under the License is distributed on an "AS IS" BASIS,
+     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+     See the License for the specific language governing permissions and
+     limitations under the License.
+-->
+
+<resources>
+	<string name="conectar">Connect</string>
+	<string name="desconectar">Disconnect</string>
+    <string name="acerca">About</string>
+    <string name="aceptar">OK</string>
+    <string name="cancelar">Cancel</string>
+    <string name="aplicar">Apply</string>
+    <string name="addserver">Add server icecast</string>
+    <string name="addport">Add port</string>
+    <string name="addmontaje">Set the mountpoint (first add /)</string>
+    <string name="adduser">Add user</string>
+    <string name="addpasswd">Add password</string>
+    <string name="addformat">Select format</string>
+    <string name="addpathfile">Add file path to play</string>
+    <string name="addselectfile">Select File</string>  
+    <string name="estatus">Status</string>
+    <string name="usuario">User: </string>
+    <string name="passwd">Password: </string>
+    <string name="server">Server: </string>
+    <string name="format">Format: </string>
+    <string name="fila">File: </string> 
+    <string name="acercainfo">IcesDroide for android, is a program that sends data(audio) streaming to icecast server.\nHas the following characteristics:\na) It is a demonstration program that lacks many features.\nb) Use of the library libshout icecast streaming server that allows clients to create.\nc) Supports MP3 and Ogg Vorbis formats.\nd) Supports English and Spanish languages.\nMore information on http://androidprojectssl.blogspot.com</string>         
+	<string name="filano">File not found: </string>
+	<string name="serverror">Error in connection, verify configuration.</string>
+	<string name="playporcentj">Reproduction: </string>
+	<string name="ubicacion">Location: </string>
+	<string name="noleer">Cannot be read</string>
+	<string name="codigofuente">Source code</string>
+	<string name="codigofuentedescarga">The source code was downloaded to the directory: </string>
+	<string name="codigofuentedescargaerror">Error can not write to the directory: /sdcard or /mnt/sdcard</string>
+</resources>
